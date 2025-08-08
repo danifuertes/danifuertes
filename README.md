@@ -1,37 +1,47 @@
-<!-- Banner / Intro -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHpub3V2d3Bydmh5b3N6OWtxazZ5OGNnYm9mdmkybTkwbGdobW0ydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif" width="100%" height="180" />
+  <img src="banner.svg" width="100%" height="180" />
 </p>
 
-<h1 align="center">Hey there, I'm Daniel 👋</h1>
+<!-- Typing -->
 <p align="center">
-  AI researcher & PhD student at <b>Universidad Politécnica de Madrid</b>
-</p>
-<p align="center">
-  Passionate about Deep Learning, Reinforcement Learning, Vehicle Routing Problems & Computer Vision
-</p>
-
-<p align="center">
-  🌐 <a href="https://danifuertes.github.io"><b>Check out my personal website!</b></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&center=true&vCenter=true&multiline=true&width=380&height=70&lines=Hi+there%2C+I'm+Daniel+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" />
+  </a>
 </p>
 
----
+<!-- Website -->
+<p align="center">
+  <a href="https://danifuertes.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/VISIT_MY_WEBSITE!-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000&color=0f9696" alt="Website" />
+  </a>
+</p>
+
+
 
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danifuertes&show_icons=true&theme=tokyonight&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danifuertes&layout=compact&theme=tokyonight&count_private=true" height="160" />
 </p>
 
-<!-- Trophies (optional bling) -->
-<h2 align="center">🏆 GitHub Trophies</h2>
+<!-- Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=danifuertes&theme=onedark&row=1&column=6" />
 </p>
 
-<!-- Activity Graph -->
-<h2 align="center">📅 Contribution Activity</h2>
+<!-- Pinned projects -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danifuertes&theme=tokyo-night" alt="Contribution Graph" />
+  <a href="https://github.com/danifuertes/top-former">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danifuertes&repo=top-former&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/danifuertes/naviformer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danifuertes&repo=naviformer&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/danifuertes/logo_mix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danifuertes&repo=logo_mix&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/danifuertes/gsac_dnn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danifuertes&repo=gsac_dnn&theme=tokyonight" />
+  </a>
 </p>
