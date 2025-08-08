@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.svg" width="100%" height="180" />
+  <img src="images/banner.svg" width="100%" />
 </p>
 
 <!-- Typing -->
@@ -16,8 +16,6 @@
     <img src="https://img.shields.io/badge/VISIT_MY_WEBSITE!-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000&color=0f9696" alt="Website" />
   </a>
 </p>
-
-
 
 <!-- GitHub Stats -->
 <p align="center">
@@ -38,10 +36,10 @@
   <a href="https://github.com/danifuertes/naviformer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=danifuertes&repo=naviformer&theme=tokyonight" />
   </a>
+  <a href="https://github.com/danifuertes/mc_uav">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danifuertes&repo=mc_uav&theme=tokyonight" />
+  </a>
   <a href="https://github.com/danifuertes/logo_mix">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=danifuertes&repo=logo_mix&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/danifuertes/gsac_dnn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danifuertes&repo=gsac_dnn&theme=tokyonight" />
   </a>
 </p>
