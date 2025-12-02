@@ -17,13 +17,9 @@
   </a>
 </p>
 
-<!-- GitHub Stats -->
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danifuertes&show_icons=true&theme=tokyonight&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danifuertes&layout=compact&theme=tokyonight&count_private=true" height="160" />
-</p> -->
+<!-- GitHub Contributions -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=danifuertes&theme=tokyonight&hide_border=false" />
+  <img src="https://ghchart.rshah.org/8f2ac9/danifuertes" />
 </p>
 
 <!-- Trophies -->
@@ -31,18 +27,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=danifuertes&theme=onedark&row=1&column=6" />
 </p>
 
-<!-- Pinned projects -->
-<!-- <p align="center">
-  <a href="https://github.com/danifuertes/top-former">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danifuertes&repo=top-former&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/danifuertes/naviformer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danifuertes&repo=naviformer&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/danifuertes/mc_uav">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danifuertes&repo=mc_uav&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/danifuertes/logo_mix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danifuertes&repo=logo_mix&theme=tokyonight" />
-  </a>
-</p> -->
+<!-- Languages -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danifuertes&theme=dark" />
+</p>
