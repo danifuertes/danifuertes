@@ -18,9 +18,12 @@
 </p>
 
 <!-- GitHub Stats -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danifuertes&show_icons=true&theme=tokyonight&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danifuertes&layout=compact&theme=tokyonight&count_private=true" height="160" />
+</p> -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=danifuertes&theme=tokyonight&hide_border=false" />
 </p>
 
 <!-- Trophies -->
@@ -29,7 +32,7 @@
 </p>
 
 <!-- Pinned projects -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/danifuertes/top-former">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=danifuertes&repo=top-former&theme=tokyonight" />
   </a>
@@ -42,4 +45,4 @@
   <a href="https://github.com/danifuertes/logo_mix">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=danifuertes&repo=logo_mix&theme=tokyonight" />
   </a>
-</p>
+</p> -->
