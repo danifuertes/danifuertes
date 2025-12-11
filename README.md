@@ -18,19 +18,19 @@
 </p>
 
 <!-- Trophies -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=danifuertes&theme=onedark&row=1&column=6" />
-</p>
+</p> -->
 
 <!-- GitHub Contributions -->
 <p align="center">
   <img src="https://ghchart.rshah.org/8f2ac9/danifuertes" />
 </p>
 
-
 <!-- GitHub Profile -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danifuertes&theme=ocean_dark" />
+</p>
 
 <!-- GitHub Stats + Languages -->
 <div align="center">
